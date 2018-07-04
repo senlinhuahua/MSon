@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MSon.iml" filepath="$PROJECT_DIR$/MSon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meshe/meshe.iml" filepath="$PROJECT_DIR$/meshe/meshe.iml" />
+    </modules>
+  </component>
+</project>

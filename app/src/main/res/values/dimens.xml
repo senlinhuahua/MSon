@@ -1,0 +1,27 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="search_view_inset">5dp</dimen>
+    <dimen name="sliding_search_view_header_height">250dp</dimen>
+    <dimen name="friend_map_btn_height">42dp</dimen>
+    <dimen name="action_bar_height">48dip</dimen>
+    <dimen name="friend_map_bound_padding">80dp</dimen>
+    <dimen name="bottom_component_margin_vertical">8dip</dimen>
+    <dimen name="bottom_component_margin_horizontal">6dip</dimen>
+    <dimen name="message_bottom_function_viewpager_height">220dip</dimen>
+    <dimen name="dialog_text_margin_horizontal">15dip</dimen>
+    <dimen name="very_samll_text_size">9sp</dimen>
+    <dimen name="light_line_size">1sp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="bubble_time_layout_margin_bottom">8dip</dimen>
+    <dimen name="bubble_time_layout_margin_top">18dip</dimen>
+    <dimen name="avatar_size_in_session">40dp</dimen>
+    <dimen name="bubble_head_margin_horizontal">8dip</dimen>
+    <dimen name="max_text_bubble_width">222dip</dimen>
+    <dimen name="bubble_margin_top">2dp</dimen>
+    <dimen name="bubble_layout_margin_side">6dip</dimen>
+</resources>

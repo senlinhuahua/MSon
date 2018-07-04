@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="bottom"
+    android:layout_height="160dp"
+    android:orientation="vertical">
+
+
+    <com.xsl.mson.ui.widget.CircleImageView
+        android:id="@+id/nav_imgtitle_her"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/we_you"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/white"
+        android:layout_marginEnd="30dp"
+        android:layout_alignParentEnd="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <com.xsl.mson.ui.widget.CircleImageView
+            android:id="@+id/nav_imgtitle_my"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@mipmap/ic_launcher"
+            app:civ_border_width="2dp"
+            app:civ_border_color="@color/white"/>
+        <TextView
+            android:id="@+id/my_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forest"
+            android:textColor="@color/white"
+            android:layout_marginLeft="15dp"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

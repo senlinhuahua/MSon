@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_voice_rec"
+        android:title="1"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_launcher"/>
+    <item android:id="@+id/action_location"
+        android:title="2"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_launcher"/>
+    <item android:id="@+id/action_taxi"
+        android:title="3"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_launcher"/>
+    <item android:id="@+id/action_change_colors"
+        android:title="4"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_invert_colors_black_24dp"/>
+
+</menu>
